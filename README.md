@@ -1,2 +1,5 @@
-# Project
- DSCC 242 Projects codes
+# Java
+Jave implementation of
+1. Tic-tac-toe
+2. Nine-Queen
+
